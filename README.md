@@ -1,4 +1,4 @@
-# financial-news-sentiment-analysis
+# Financial news sentiment analysis
 A machine learning project analyzing financial news sentiment using TF-IDF vectorization and logistic regression.
 
 Financial News Sentiment Analysis
